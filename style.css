@@ -1,0 +1,23 @@
+body{
+    background-color: antiquewhite;
+}
+.textp1{
+    background: -webkit-linear-gradient(rgb(166, 197, 255), rgb(201,219,255));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.textp2{
+    background: -webkit-linear-gradient(rgb(202, 175, 152),rgb(255, 245, 155));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.textp3{
+    background: -webkit-linear-gradient(rgb(255, 121, 121),rgb(255, 253, 238));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.textp4{
+    background: -webkit-linear-gradient(rgb(31, 30, 30),rgb(120, 53, 228));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
