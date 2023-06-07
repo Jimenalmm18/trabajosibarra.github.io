@@ -1,19 +1,19 @@
 @keyframes cartero {
-from {
-background-position: 0px;
-}
-
-to {
-background-position: -560px;
-}
-}
-
-.recorte {
-width: 5000px;
-height: 112px;
-background-image: url("descarga.jpg");
-animation: cartero 2s steps(8, end) infinite;
-}
-
-
-
+    from {
+    background-position: 0px;
+    }
+    
+    to {
+    background-position: -560px;
+    }
+    }
+    
+    .recorte {
+    width: 5000px;
+    height: 112px;
+    background-image: url("gatito.png");
+    animation: cartero 2s steps(8, end) infinite;
+    }
+    
+    
+    
